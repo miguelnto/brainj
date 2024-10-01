@@ -6,11 +6,11 @@ Most of my inspiration when I was writing this actually came from resources avai
 
 ## TODO
 
-- [ ] I still need to make more tests, as there are probably some programs in standard Brainf that doesn't work well with this implementation.
+- [ ] I still need to make more tests, as there are probably some programs in standard Brainf*ck that doesn't work well with this implementation.
 - [ ] Create a compiler
   - [ ] That compiles to Java Bytecode
   - [ ] That compiles to native machine code
-- [ ] Make this implementation embeddable so you can execute BrainF programs inside another app.
+- [ ] Make this implementation embeddable so you can execute Brainf*ck programs inside another app.
 
 ## Usage
 
@@ -31,4 +31,9 @@ The following programs were tested successfully:
 - [Sierpiński triangle](https://brainfuck.org/sierpinski.b) (sierpinski.b)
 
 These all came from the [Brainf*ck Website.](https://brainfuck.org/).
+
+## Resources
+
+- [An introduction to Brainf*ck by roachhd](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
+- [Wikipedia Article](https://en.wikipedia.org/wiki/Brainfuck)
 
